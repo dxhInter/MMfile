@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MMFile</string>
+    <string name="action_settings">数据同步</string>
+    <string name="action_loginOut">退出登录</string>
+    <string name="action_updatePwd">修改密码</string>
+    <string name="file_setting">更多</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_start">文件列表</string>
+    <string name="textViewDL">用户登录</string>
+    <string name="textViewZC">用户注册</string>
+    <string name="textViewXG">修改密码</string>
+
+    <string name="UNAME">用户名：</string>
+    <string name="NickName">昵称：</string>
+    <string name="UserPassword">密  码 ：</string>
+    <string name="ConfirmPassword">确认密码：</string>
+    <string name="OldPwd">旧密码：</string>
+    <string name="NewPwd">新密码：</string>
+
+    <string name="Confirm">确定</string>
+</resources>

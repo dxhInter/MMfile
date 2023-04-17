@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/pop_download"
+
+        android:title="下载" />
+    <item
+        android:id="@+id/pop_preview"
+
+        android:title="预览" />
+    <item
+        android:id="@+id/pop_more"
+
+        android:title="更多信息" />
+    <item
+        android:id="@+id/pop_cancel"
+
+        android:title="取消" />
+</menu>
