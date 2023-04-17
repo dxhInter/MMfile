@@ -1,2 +1,2 @@
-# A simple mobile personal cloud network drive based on Android Studio, using SevenNiu Cloud
+# A simple mobile personal cloud network drive
 ### This project developed a simple mobile personal cloud network drive based on Android Studio, using SevenNiu Cloud as the file storage platform and Bmob as the database storage platform, realizing user registration, login, logout, file list synchronization, file preview, upload, download, rename and delete, etc., providing convenience for personal fast file storage and unlimited download speed.
